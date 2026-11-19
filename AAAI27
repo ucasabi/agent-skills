@@ -1,0 +1,21 @@
+AAAI Workshops of interest (Deadline 20 Nov): (Full list: https://aaai.org/conference/aaai/aaai-27/aaai-27-workshop-program-list/)
+
+
+Measuring Collective Intelligence in Agentic System https://multiagents.org/2027/ 
+       (Probably the most relevant for collusion stream)
+
+Social Simulations with LLMs https://sites.google.com/view/social-sims-with-llms/social-sim27
+       (Should be relevant for simulating collusion in multi-agent systems)
+
+Who Does Your AI Agent Work For? A Workshop on Loyal Agents https://loyalagents.github.io/aaai27/
+       (Secret Loyalties MOs?)
+
+Deployable AI Workshop https://dai-workshop.github.io/
+       (Seems like a catch-all, can be relevant for any AI Safety projects, listed interpretability too on their website)
+
+LLM Agents Under Threat in Cyberspace https://llm-agents-under-threat.github.io/ and Artificial Intelligence for Cyber Security https://aics.site/AICS2027/cfp.html 
+       (Anything at the intersection of cybersecurity and agentic systems)
+
+MATH4AI Workshop: Foretelling the Future of AI through Mathematical Foundations – From Learning Architectures to Trustworthy Agents
+       https://sites.google.com/view/math4aiworkshop2027/workshop?authuser=0  (Mathematical Theories on Optimization/Training/Multi-agent systems/Safety)
+Could be a good intermediate ground for work-in-progress as we prep for ICLR workshops/ICML main!
